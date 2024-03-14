@@ -43,7 +43,7 @@
       display: flex;
       justify-content: center;
       align-items: flex-start;
-      margin: 25rem 0 0 0 ;
+      margin: 28rem 0 0 0 ;
     }
     h2{
       margin-bottom: 40px;
@@ -54,6 +54,16 @@
     }
     .content{
       margin-left: 20px;
+    }
+
+    .single{
+      border: 1px solid black;
+      padding: 50px;
+      border-radius: 10px;
+    }
+
+    .single:hover {
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
     }
 
     /* index styles */
