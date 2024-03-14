@@ -40,8 +40,10 @@
     }
     footer{
       color: #777;
-      text-align: center;
-      margin: 80px auto 20px;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      margin: 25rem 0 0 0 ;
     }
     h2{
       margin-bottom: 40px;
